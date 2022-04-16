@@ -1,4 +1,6 @@
-# platzi-exchange
+# Ejemplo Vue exchange
+
+### Ejemplo básico para recibir información sobre cryptomonedas en Vue
 
 ## Project setup
 ```
